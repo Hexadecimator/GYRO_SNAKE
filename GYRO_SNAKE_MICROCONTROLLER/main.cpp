@@ -10,12 +10,6 @@ Hardware:
   - SCL = GPIO22
   - ADCx = 15
   - ADCy = 2
-
-If using 5V (16MHz) Pro Micro:
-  - SDA = 2
-  - SCL = 3
-  - ADCx = A2
-  - ADCy = A3
 */
 
 
