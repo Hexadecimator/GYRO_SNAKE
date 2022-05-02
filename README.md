@@ -6,7 +6,7 @@ Programmed in PlatformIO.
  - BOARD: ESP32 DEVKIT V1 (using 2 Analog read pins and 1 I2C line)
 
 
-Gyro/Accelerometer: Sparkfun 5D0F
+Gyro/Accelerometer: Sparkfun 5DOF
 
 Screen: SSD1306 128x64 OLED
 
